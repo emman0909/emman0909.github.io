@@ -1,0 +1,72 @@
+.boxed {
+   opacity: 1;
+   border: 1px solid black;
+   margin: 50px;
+   padding: 60px;
+   background-image: url(field.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   filter: alpha(opacity=60);
+}
+
+body {
+  background-image: url(ssky.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.jumbotron{
+  background-image: url(cover.jpg);
+  background-size: cover;
+  font-family: Bradley Hand, cursive;
+  font-size: 30pt;
+  color: white;
+  font-weight: 600;
+  text-align: justify;
+  text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+}
+
+.top{
+   font-family: Bradley Hand, cursive;
+  font-size: 30pt;
+  color: white;
+  font-weight: 600;
+  text-align: justify;
+  text-shadow: -1px 0 black, 0 2.3px black, 2.3px 0 black, 0 -1px black;
+}
+
+.reveal{
+   font-family: Bradley Hand, cursive;
+  font-size: 50pt;
+  color: white;
+  font-weight: 600;
+  text-align: justify;
+  text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+}
+
+.box{
+  width: 1110px;
+  height: 1650px;
+  opacity: 1;
+  border: 1px solid black;
+  padding: 60px;
+  background-image: url(ssky3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: alpha(opacity=60);
+}
+
+.row{
+  font-family: Bradley Hand, cursive;
+  font-size: 12pt;
+  color: white;
+  font-weight: 600;
+  text-align: justify;
+  text-shadow: -1px 0 black, 0 2.3px black, 2.3px 0 black, 0 -1px black;
+}
+
+<div class="col-sm-4 text-center">
+   <h3>Shingeki no Kyojin</h3><br>
+      <a href="https://animepahe.com/anime/19b6836f-615b-fba5-98e6-ada16f64a0c1"><img src="attack.jpg" class="img-fluid" alt="anime pic" width="167px" height="234px"></a>
+    </div>
